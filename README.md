@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trisha
-- 👀 I’m interested in Business Intelligence and data analysis
-- 🌱 I’m currently learning Python and Power BI 
+- 👀 I’m a Business Intelligence Consultant and data analyst
+- 🌱 I’m currently working on a project that uses SQL, Python and Power BI 
 - 💞️ I’m looking to collaborate on Business Intelligence projects.
 - 📫 How to reach me : tbharatia@gmail.com
 
